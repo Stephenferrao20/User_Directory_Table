@@ -46,5 +46,6 @@ frontend/
 ```
 
 ### Deployment
+- **Live URL**: https://user-directory-table-eight.vercel.app/
 - Build: `npm run build`
 - Deploy the contents of `frontend/dist` to any static host (Vercel / Netlify / Cloudflare). A Vercel-ready adapter is already included via Vite defaults.
